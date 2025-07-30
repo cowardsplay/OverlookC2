@@ -1,0 +1,108 @@
+[2025-07-09 00:22:55.637] [INFO] Starting C2 agent
+[2025-07-09 00:22:55.639] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-09 00:22:55.639] [SUCCESS] Agent initialized successfully
+[2025-07-09 00:22:55.640] [INFO] Starting C2 agent...
+[2025-07-09 00:22:55.640] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-09 00:22:57.684] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:25:01.205] [INFO] Downloading file: C:\Users\josh\Downloads\pizza.txt  C:\Users\josh\Documents\pizza.txt
+[2025-07-09 00:25:01.210] [ERROR] Failed to read file: C:\Users\josh\Downloads\pizza.txt  C:\Users\josh\Documents\pizza.txt - The filename, directory name, or volume label syntax is incorrect. (os error 123)
+[2025-07-09 00:38:05.996] [INFO] Starting C2 agent
+[2025-07-09 00:38:05.997] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-09 00:38:05.998] [SUCCESS] Agent initialized successfully
+[2025-07-09 00:38:05.999] [INFO] Starting C2 agent...
+[2025-07-09 00:38:05.999] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-09 00:38:50.090] [ERROR] Connection error: WebSocket error: IO error: An existing connection was forcibly closed by the remote host. (os error 10054)
+[2025-07-09 00:38:57.127] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:39:04.419] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:39:47.732] [ERROR] Connection error: WebSocket error: IO error: An existing connection was forcibly closed by the remote host. (os error 10054)
+[2025-07-09 00:39:54.766] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:40:01.837] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:40:08.904] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:40:16.004] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:40:23.067] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:40:30.347] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:40:39.843] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 00:42:32.585] [INFO] Starting C2 agent
+[2025-07-09 00:42:32.587] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-09 00:42:32.588] [SUCCESS] Agent initialized successfully
+[2025-07-09 00:42:32.589] [INFO] Starting C2 agent...
+[2025-07-09 00:42:32.590] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-09 00:46:03.077] [INFO] Downloading file: C:\Users\josh\Documents\pizza.txt
+[2025-07-09 00:46:03.113] [ERROR] Failed to read file: C:\Users\josh\Documents\pizza.txt - The system cannot find the file specified. (os error 2)
+[2025-07-09 00:48:41.084] [INFO] Downloading file: C:\Users\josh\Documents\pizza.txt
+[2025-07-09 00:48:41.409] [ERROR] Failed to read file: C:\Users\josh\Documents\pizza.txt - The system cannot find the file specified. (os error 2)
+[2025-07-09 01:28:24.136] [INFO] Starting C2 agent
+[2025-07-09 01:28:24.137] [INFO] Configuration: server=ws://127.0.0.1:8080, key=keypass123, heartbeat=30
+[2025-07-09 01:28:24.137] [SUCCESS] Agent initialized successfully
+[2025-07-09 01:28:24.138] [INFO] Starting C2 agent...
+[2025-07-09 01:28:24.138] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-09 01:28:24.179] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:28:31.305] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:28:36.657] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:28:42.341] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:28:47.738] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:28:54.680] [ERROR] Connection error: WebSocket error: IO error: An existing connection was forcibly closed by the remote host. (os error 10054)
+[2025-07-09 01:29:02.186] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:09.262] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:16.414] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:23.495] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:30.563] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:37.676] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:44.754] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:51.858] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:29:58.953] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:30:05.597] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:10.754] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:15.800] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:21.853] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:26.965] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:33.278] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:38.953] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:44.094] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:49.973] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:30:55.144] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:31:00.325] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:31:05.454] [ERROR] Connection error: WebSocket error: WebSocket protocol error: Connection reset without closing handshake
+[2025-07-09 01:31:12.890] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:31:20.400] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:31:27.500] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:31:34.564] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:31:41.658] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:31:48.781] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:31:56.062] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:32:04.530] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:34:18.032] [INFO] Starting C2 agent
+[2025-07-09 01:34:18.038] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-09 01:34:18.039] [SUCCESS] Agent initialized successfully
+[2025-07-09 01:34:18.039] [INFO] Starting C2 agent...
+[2025-07-09 01:34:18.040] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-09 01:43:33.193] [ERROR] Connection error: WebSocket error: IO error: An existing connection was forcibly closed by the remote host. (os error 10054)
+[2025-07-09 01:43:44.054] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:43:51.264] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:43:58.651] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:44:06.258] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:44:13.648] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:44:21.155] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:44:28.847] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:44:35.960] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:44:43.169] [ERROR] Connection error: WebSocket connection failed: IO error: No connection could be made because the target machine actively refused it. (os error 10061)
+[2025-07-09 01:45:14.373] [INFO] Starting C2 agent
+[2025-07-09 01:45:14.431] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-09 01:45:14.619] [SUCCESS] Agent initialized successfully
+[2025-07-09 01:45:14.680] [INFO] Starting C2 agent...
+[2025-07-09 01:45:14.689] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-09 01:49:11.426] [INFO] Starting C2 agent
+[2025-07-09 01:49:11.430] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-09 01:49:11.434] [SUCCESS] Agent initialized successfully
+[2025-07-09 01:49:11.458] [INFO] Starting C2 agent...
+[2025-07-09 01:49:11.459] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-09 01:51:50.837] [INFO] Starting C2 agent
+[2025-07-09 01:51:50.865] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-09 01:51:50.943] [SUCCESS] Agent initialized successfully
+[2025-07-09 01:51:50.964] [INFO] Starting C2 agent...
+[2025-07-09 01:51:50.981] [INFO] Server: ws://127.0.0.1:8080
+[2025-07-11 05:52:48.602] [INFO] Starting C2 agent
+[2025-07-11 05:52:48.606] [INFO] Configuration: server=ws://127.0.0.1:8080, key=testkey123, heartbeat=30
+[2025-07-11 05:52:48.610] [SUCCESS] Agent initialized successfully
+[2025-07-11 05:52:48.613] [INFO] Starting C2 agent...
+[2025-07-11 05:52:48.617] [INFO] Server: ws://127.0.0.1:8080
