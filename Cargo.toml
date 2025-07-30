@@ -1,0 +1,67 @@
+[package]
+name = "rust-c2"
+version = "0.1.0"
+edition = "2021"
+authors = ["C2 Developer"]
+description = "A Command and Control framework written in Rust"
+
+[[bin]]
+name = "teamserver"
+path = "src/teamserver.rs"
+
+[[bin]]
+name = "agent"
+path = "src/agent.rs"
+
+[[bin]]
+name = "client"
+path = "src/server/main.rs"
+
+[dependencies]
+# CLI and user interface
+clap = { version = "4.4", features = ["derive"] }
+tokio = { version = "1.35", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+
+
+# Networking
+tokio-tungstenite = { version = "0.21", features = ["native-tls"] }
+tungstenite = { version = "0.21", features = ["native-tls"] }
+
+# Cryptography and security
+aes-gcm = "0.10"
+rand = "0.8"
+base64 = "0.21"
+sha2 = "0.10"
+hmac = "0.12"
+
+# System operations
+sysinfo = "0.30"
+chrono = { version = "0.4", features = ["serde"] }
+uuid = { version = "1.6", features = ["v4", "serde"] }
+hostname = "0.3"
+num_cpus = "1.16"
+
+# Async runtime
+futures = "0.3"
+futures-util = "0.3"
+async-trait = "0.1"
+
+# Error handling
+anyhow = "1.0"
+thiserror = "1.0"
+
+# Windows API for BOF execution
+[target.'cfg(windows)'.dependencies]
+windows-sys = { version = "0.48", features = [
+    "Win32_System_Memory",
+    "Win32_Foundation", 
+    "Win32_System_Threading",
+    "Win32_System_Diagnostics_Debug",
+    "Win32_Security_Authorization"
+]}
+
+[dev-dependencies]
+tokio-test = "0.4" 
