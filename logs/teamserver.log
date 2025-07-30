@@ -1,0 +1,772 @@
+Teamserver running. Use the client to interact.
+Starting C2 teamserver on 127.0.0.1:8080
+Teamserver listening on 127.0.0.1:8080
+New connection from: 127.0.0.1:60443
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+New connection from: 127.0.0.1:60514
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+New connection from: 127.0.0.1:60538
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+target/release/teamserver.exe : Error receiving message: HMAC verification failed
+At line:1 char:1
++ target/release/teamserver.exe --key testkey123 --bind 127.0.0.1 --por ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Error receiving...fication failed:Str 
+   ing) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+New connection from: 127.0.0.1:60539
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60540
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60541
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60542
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60543
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60547
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60552
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60553
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60555
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60556
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60557
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60558
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60559
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60560
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60561
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60562
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60563
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60564
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60572
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60577
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60584
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60589
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60594
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60599
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60604
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60610
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60616
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60621
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60625
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60629
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60641
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60646
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60647
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60648
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60653
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60658
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60659
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60664
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60669
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60670
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60673
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60675
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60677
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60678
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60679
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60680
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60682
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60683
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60684
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60685
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60686
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60687
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60688
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60690
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60692
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60693
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60699
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60705
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60711
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60717
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60725
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60732
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60737
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60743
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60749
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60755
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60759
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60760
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60761
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60762
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60765
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60769
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60770
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60771
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60772
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60773
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60774
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60777
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60778
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60779
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60780
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60781
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60782
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60783
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60784
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60785
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60786
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60787
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60788
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60790
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60791
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60792
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60796
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60798
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60799
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60800
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60808
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60809
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60816
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60820
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60830
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60835
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60840
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60846
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60852
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60859
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60865
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60870
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60874
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60875
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60881
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60882
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60884
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60885
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60886
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60887
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60888
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60889
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60890
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60891
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60893
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60894
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+New connection from: 127.0.0.1:60895
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+[DEBUG] Waiting for message...
+Error receiving message: WebSocket error: WebSocket protocol error: Connection 
+reset without closing handshake
+New connection from: 127.0.0.1:60896
+[DEBUG] Accepting WebSocket upgrade
+[DEBUG] WebSocket upgrade successful
+≡ƒöù New WebSocket connection established
+[DEBUG] Waiting for message...
+Error receiving message: HMAC verification failed
+㉛㈰ⴵ㜰〭‹〰㈺㨳㐰ㄮ㤳⁝䥛䙎嵏匠慴瑲湩⁧㉃琠慥獭牥敶ੲ㉛㈰ⴵ㜰〭‹〰㈺㨳㐰ㄮㄴ⁝䥛䙎嵏䌠湯楦畧慲楴湯›楢摮ㄽ㜲〮〮ㄮ㠺㠰ⰰ欠祥琽獥歴祥㈱ਲ਼㉛㈰ⴵ㜰〭‹〰㈺㨳㐰ㄮ〵⁝卛䍕䕃卓⁝敔浡敳癲牥椠楮楴污穩摥猠捵散獳畦汬੹㉛㈰ⴵ㜰〭‹〰㈺㨳㐰ㄮㄵ⁝卛䍕䕃卓⁝瑓牡楴杮䌠′整浡敳癲牥漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨰㌲〺⸴㔱崹嬠啓䍃卅嵓吠慥獭牥敶⁲楬瑳湥湩⁧湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹〰㈺㨳㐰㌮㘷⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㈶㈱ਵ㉛㈰ⴵ㜰〭‹〰㈺㨳〱㜮㜰⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㈶㈱਷㉛㈰ⴵ㜰〭‹〰㈺㨳ㄴ〮㔵⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮㈠㘰㝤㥡ⵤ挸㙣㐭搱ⴱ捡ㄶ搭ㅡ㜹㐰ㅡ㙣਷㉛㈰ⴵ㜰〭‹〰㈺㨳ㄴㄮ㔳⁝䑛䉅䝕⁝潃浭湡⁤祴数›敇却獹整䥭普੯㉛㈰ⴵ㜰〭‹〰㈺㨵〰㜮〶⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮㈠㘰㝤㥡ⵤ挸㙣㐭搱ⴱ捡ㄶ搭ㅡ㜹㐰ㅡ㙣਷㉛㈰ⴵ㜰〭‹〰㈺㨵〰㜮ㄶ⁝䑛䉅䝕⁝潃浭湡⁤祴数›潄湷潬摡楆敬∨㩃屜獕牥屳橜獯屨䑜睯汮慯獤屜楰空⹡硴⁴䌠尺啜敳獲屜潪桳屜潄畣敭瑮屳灜穩慺琮瑸⤢嬊〲㔲〭ⴷ㤰〠㨰㔳〺⸲㠳崹嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨰㔳〺⸲㤳崰嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨰㔳〺⸲㈴崷嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨰㔳〺⸲㈴崹嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹〰㌺㨵㈰㔮㈶⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨰㠳〺⸶㌰崷嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㌲㔶嬊〲㔲〭ⴷ㤰〠㨰㤳〺⸸㔷崲嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨰㤳〺⸸㔷崴嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨰㤳ㄺ⸰㠱崲嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨰㤳ㄺ⸰㈵崳嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹〰㌺㨹〱㔮ㄳ⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨰㤳ㄺ⸰㔹崹嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㌲㐷嬊〲㔲〭ⴷ㤰〠㨰〴㐺⸴㤳崴嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨰〴㐺⸴㤳崴嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨰〴㐺⸴㤳崵嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨰〴㐺⸴㤳崷嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹〰㐺㨰㐴㐮〰⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨰〴㐺⸵㤳崷嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㐲㌱嬊〲㔲〭ⴷ㤰〠㨰ㄴ㐺⸰㘵崴嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㐲ㄵ嬊〲㔲〭ⴷ㤰〠㨰㈴㌺⸲㈶崲嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㐲㐵嬊〲㔲〭ⴷ㤰〠㨰㘴〺⸲㔳崵嬠义但⁝敒慬楹杮挠浯慭摮映潲⁭汣敩瑮琠⁯条湥⁴㘵㘶㍡摦愭㍢ⵤ〴愶㠭慥ⴰ〸〶捦㠲㄰㈴嬊〲㔲〭ⴷ㤰〠㨰㘴〺⸲㔳崶嬠䕄啂嵇䌠浯慭摮琠灹㩥䐠睯汮慯䙤汩⡥䌢尺啜敳獲屜潪桳屜潄畣敭瑮屳灜穩慺琮瑸⤢嬊〲㔲〭ⴷ㤰〠㨰㠴㐺⸰㌵崵嬠义但⁝敒慬楹杮挠浯慭摮映潲⁭汣敩瑮琠⁯条湥⁴㘵㘶㍡摦愭㍢ⵤ〴愶㠭慥ⴰ〸〶捦㠲㄰㈴嬊〲㔲〭ⴷ㤰〠㨰㠴㐺⸰㌵崶嬠䕄啂嵇䌠浯慭摮琠灹㩥䐠睯汮慯䙤汩⡥䌢尺啜敳獲屜潪桳屜潄畣敭瑮屳灜穩慺琮瑸⤢嬊〲㔲〭ⴷ㤰〠㨱㔲㈺⸴㐰崴嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨱㔲㈺⸴㐰崶嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨱㔲㈺⸴㜰崵嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨱㔲㈺⸴㜰崹嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹㄰㈺㨵㐲ㄮ㠹⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨱㠲㈺⸴㔱崱嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ〰嬊〲㔲〭ⴷ㤰〠㨱㠲㈺⸹㤲崸嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㄰嬊〲㔲〭ⴷ㤰〠㨱㠲㌺⸶ㄳ崳嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㈰嬊〲㔲〭ⴷ㤰〠㨱㠲㐺⸱㌷崹嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㌰嬊〲㔲〭ⴷ㤰〠㨱㠲㐺⸷㌵崶嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㔰嬊〲㔲〭ⴷ㤰〠㨱㠲㔺⸲㜸崲嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㜰嬊〲㔲〭ⴷ㤰〠㨱〳〺⸴㐴崲嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨱〳〺⸴㐴崳嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨱〳〺⸴㐴崳嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨱〳〺⸴㔴崴嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹㄰㌺㨰㐰㐮㠵⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨱〳〺⸴㌹崲嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳㄸ嬊〲㔲〭ⴷ㤰〠㨱〳ㄺ⸰㈷崴嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㐸嬊〲㔲〭ⴷ㤰〠㨱〳ㄺ⸵㜷崰嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㔸嬊〲㔲〭ⴷ㤰〠㨱〳㈺⸱㈱崸嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺ㄳ㘸嬊〲㔲〭ⴷ㤰〠㨱〳㈺⸳㈲崵嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨱〳㈺⸳㈲崵嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨱〳㈺⸳㈲崶嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨱〳㈺⸳㠳崸嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹㄰㌺㨰㘲㠮㜶⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㠱ਸ㉛㈰ⴵ㜰〭‹㄰㌺㨰㈳〮㜹⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㠱ਹ㉛㈰ⴵ㜰〭‹㄰㌺㨰㠳㌮㈹⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㤱਷㉛㈰ⴵ㜰〭‹㄰㌺㨰㌴㤮㈷⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㤱ਸ㉛㈰ⴵ㜰〭‹㄰㌺㨰㤴ㄮ㈴⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㤱ਹ㉛㈰ⴵ㜰〭‹㄰㌺㨰㔵〮㠰⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶〲ਲ㉛㈰ⴵ㜰〭‹㄰㌺㨱〰ㄮ㐶⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶〲਴㉛㈰ⴵ㜰〭‹㄰㌺㨱㔰㌮㠳⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶〲ਸ਼㉛㈰ⴵ㜰〭‹㄰㌺㨴〱㜮㤰⁝䥛䙎嵏匠慴瑲湩⁧㉃琠慥獭牥敶ੲ㉛㈰ⴵ㜰〭‹㄰㌺㨴〱㜮㘵⁝䥛䙎嵏䌠湯楦畧慲楴湯›楢摮ㄽ㜲〮〮ㄮ㠺㠰ⰰ欠祥琽獥歴祥㈱ਲ਼㉛㈰ⴵ㜰〭‹㄰㌺㨴〱㜮㘶⁝卛䍕䕃卓⁝敔浡敳癲牥椠楮楴污穩摥猠捵散獳畦汬੹㉛㈰ⴵ㜰〭‹㄰㌺㨴〱㜮〸⁝卛䍕䕃卓⁝瑓牡楴杮䌠′整浡敳癲牥漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨱㐳ㄺ⸰㌹崸嬠啓䍃卅嵓吠慥獭牥敶⁲楬瑳湥湩⁧湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹㄰㌺㨴㠱〮㤶⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㠲ਹ㉛㈰ⴵ㜰〭‹㄰㌺㨸㤵〮〹⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㘴਴㉛㈰ⴵ㜰〭‹㄰㌺㨹㐴㘮㈴⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮ㄠ搳㉦ちⴳ㤸㤷㐭㜶ⵢ改愵ㄭ愶㔹㔱ㄴ㜵਷㉛㈰ⴵ㜰〭‹㄰㌺㨹㐴㘮㌴⁝䑛䉅䝕⁝潃浭湡⁤祴数›敇却獹整䥭普੯㉛㈰ⴵ㜰〭‹㄰㐺㨰㘱ㄮ㘸⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮ㄠ搳㉦ちⴳ㤸㤷㐭㜶ⵢ改愵ㄭ愶㔹㔱ㄴ㜵਷㉛㈰ⴵ㜰〭‹㄰㐺㨰㘱ㄮ㜸⁝䑛䉅䝕⁝潃浭湡⁤祴数›桓汥䍬浯慭摮∨桷慯業⤢嬊〲㔲〭ⴷ㤰〠㨱〴㈺⸴ㄴ崶嬠义但⁝敒慬楹杮挠浯慭摮映潲⁭汣敩瑮琠⁯条湥⁴㌱晤愲㌰㠭㜹ⴹ㘴户㤭㕥ⵡ㘱㥡ㄵ㐵㔱㜷嬊〲㔲〭ⴷ㤰〠㨱〴㈺⸴ㄴ崷嬠䕄啂嵇䌠浯慭摮琠灹㩥匠敨汬潃浭湡⡤眢潨浡≩਩㉛㈰ⴵ㜰〭‹㄰㐺㨰㜳㘮㌵⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮ㄠ搳㉦ちⴳ㤸㤷㐭㜶ⵢ改愵ㄭ愶㔹㔱ㄴ㜵਷㉛㈰ⴵ㜰〭‹㄰㐺㨰㜳㘮㐵⁝䑛䉅䝕⁝潃浭湡⁤祴数›汓敥⁰⁻畤慲楴湯›〱〰ⰰ樠瑩整彲数捲湥㩴㈠〰素嬊〲㔲〭ⴷ㤰〠㨱㐴㐺⸹ㄷ崵嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨱㐴㐺⸹ㄷ崶嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨱㐴㐺⸹㈷崳嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨱㐴㐺⸹㈷崴嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹㄰㐺㨴㤴㜮㜲⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨱㐴㔺⸲㠹崴嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㔳㐶嬊〲㔲〭ⴷ㤰〠㨱㐴㔺⸶ㄹ崵嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㔳㘶嬊〲㔲〭ⴷ㤰〠㨱㔴ㄺ⸴〸崲嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㔳ㄷ嬊〲㔲〭ⴷ㤰〠㨱㘴〺⸸㔸崸嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㔳㤹嬊〲㔲〭ⴷ㤰〠㨱㘴㈺⸳㤷崸嬠义但⁝敒慬楹杮挠浯慭摮映潲⁭汣敩瑮琠⁯条湥⁴㌹ㅤ昰敦ㄭ慦ⴷ㐴㜰愭攱ⵢㄴ攰㡤攵搴〶嬊〲㔲〭ⴷ㤰〠㨱㘴㈺⸳㤷崹嬠䕄啂嵇䌠浯慭摮琠灹㩥䬠汩੬㉛㈰ⴵ㜰〭‹㄰㐺㨷㄰〮㐶⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶ㄶਹ㉛㈰ⴵ㜰〭‹㄰㐺㨸㐴㌮㈵⁝䥛䙎嵏匠慴瑲湩⁧㉃琠慥獭牥敶ੲ㉛㈰ⴵ㜰〭‹㄰㐺㨸㐴㌮㐵⁝䥛䙎嵏䌠湯楦畧慲楴湯›楢摮ㄽ㜲〮〮ㄮ㠺㠰ⰰ欠祥琽獥歴祥㈱ਲ਼㉛㈰ⴵ㜰〭‹㄰㐺㨸㐴㠮㌰⁝卛䍕䕃卓⁝敔浡敳癲牥椠楮楴污穩摥猠捵散獳畦汬੹㉛㈰ⴵ㜰〭‹㄰㐺㨸㐴㠮㌳⁝卛䍕䕃卓⁝瑓牡楴杮䌠′整浡敳癲牥漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨱㠴㐺⸵㈳崶嬠啓䍃卅嵓吠慥獭牥敶⁲楬瑳湥湩⁧湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹㄰㐺㨸㔵㜮ㄳ⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㘶ਰ㉛㈰ⴵ㜰〭‹㄰㐺㨹ㄱ㐮㘷⁝䥛䙎嵏丠睥挠湯敮瑣潩⁮牦浯›㈱⸷⸰⸰㨱㌶㘶ਲ਼㉛㈰ⴵ㜰〭‹㄰㐺㨹ㄳㄮ㈹⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮ㄠ搳㉦ちⴳ㤸㤷㐭㜶ⵢ改愵ㄭ愶㔹㔱ㄴ㜵਷㉛㈰ⴵ㜰〭‹㄰㐺㨹ㄳㄮ㐹⁝䑛䉅䝕⁝潃浭湡⁤祴数›楋汬嬊〲㔲〭ⴷ㤰〠㨱ㄵ㔺⸱㔰崴嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㜳㜰嬊〲㔲〭ⴷ㤰〠㨱㘵〺⸳㘱崱嬠义但⁝敒慬楹杮挠浯慭摮映潲⁭汣敩瑮琠⁯条湥⁴㌱晤愲㌰㠭㜹ⴹ㘴户㤭㕥ⵡ㘱㥡ㄵ㐵㔱㜷嬊〲㔲〭ⴷ㤰〠㨱㘵〺⸳㘱崲嬠䕄啂嵇䌠浯慭摮琠灹㩥䬠汩੬㉛㈰ⴵ㜰〭‹㄰㔺㨸〱〮㘲⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮㔠㐷ㄴ昷ⴰ㜴ㄸ㐭敦ⵢ攸つ㘭㔰摣〵㘲㘶਷㉛㈰ⴵ㜰〭‹㄰㔺㨸〱〮㜲⁝䑛䉅䝕⁝潃浭湡⁤祴数›楋汬嬊〲㔲〭ⴷ㤰〠㨱㠵㔺⸴㈵崱嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷ㤰〠㨱㠵㔺⸴㈵崳嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷ㤰〠㨱㠵㔺⸴㜵崵嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷ㤰〠㨱㠵㔺⸴㜵崷嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰〭‹㄰㔺㨸㐵㘮ㄶ⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷ㤰〠㨱㠵㔺⸹㈵崳嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㘺㠳㌲嬊〲㔲〭ⴷㄱ〠㨵㤴㌺⸵㘸崹嬠义但⁝瑓牡楴杮䌠′整浡敳癲牥嬊〲㔲〭ⴷㄱ〠㨵㤴㌺⸵㜸崰嬠义但⁝潃普杩牵瑡潩㩮戠湩㵤㈱⸷⸰⸰㨱〸〸‬敫㵹整瑳敫ㅹ㌲嬊〲㔲〭ⴷㄱ〠㨵㤴㌺⸵㜸崰嬠啓䍃卅嵓吠慥獭牥敶⁲湩瑩慩楬敺⁤畳捣獥晳汵祬嬊〲㔲〭ⴷㄱ〠㨵㤴㌺⸵㜸崱嬠啓䍃卅嵓匠慴瑲湩⁧㉃琠慥獭牥敶⁲湯ㄠ㜲〮〮ㄮ㠺㠰ਰ㉛㈰ⴵ㜰ㄭ‱㔰㐺㨹㔳㠮㌷⁝卛䍕䕃卓⁝敔浡敳癲牥氠獩整楮杮漠⁮㈱⸷⸰⸰㨱〸〸嬊〲㔲〭ⴷㄱ〠㨵〵㌺⸵㈹崶嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㔺㐰ㄹ嬊〲㔲〭ⴷㄱ〠㨵㈵㐺⸸㈶崳嬠义但⁝敎⁷潣湮捥楴湯映潲㩭ㄠ㜲〮〮ㄮ㔺㐰㘹嬊〲㔲〭ⴷㄱ〠㨵㌵〺⸸㐷崱嬠义但⁝敒慬楹杮挠浯慭摮映潲⁭汣敩瑮琠⁯条湥⁴㝢〶ㄸ㘳攭ㅢⵤ搴愲戭㕢ⴸ敡挴㄰㘲㤸㘷嬊〲㔲〭ⴷㄱ〠㨵㌵〺⸸㐷崲嬠䕄啂嵇䌠浯慭摮琠灹㩥匠敨汬潃浭湡⡤眢潨浡≩਩㉛㈰ⴵ㜰ㄭ‱㔰㔺㨳㔲㤮㠱⁝䥛䙎嵏删汥祡湩⁧潣浭湡⁤牦浯挠楬湥⁴潴愠敧瑮戠㘷㠰㌱ⴶ扥搱㐭㉤ⵡ扢㠵愭㑥っ㈱㠶㜹ਸ਼㉛㈰ⴵ㜰ㄭ‱㔰㔺㨳㔲㤮㤱⁝䑛䉅䝕⁝潃浭湡⁤祴数›汓敥⁰⁻畤慲楴湯›〱〰ⰰ樠瑩整彲数捲湥㩴㈠〰素
